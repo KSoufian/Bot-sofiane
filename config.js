@@ -9,20 +9,20 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true]
+['212777447115', 'driss', true]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '',
+ pairingNumber: '',
+ nameown: 'driss',
+ nomerown: '',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'B O B I Z A 🌟',
- wm: 'B O B I Z A  -  BOT',
+ author: 'idriss ben',
+ namebot: 'N E X US 🌟',
+ wm: 'N e x us  -  BOT',
  stickpack: 'Whatsapp',
- stickauth: 'Bobiza - MD'
+ stickauth: 'BY IDRISS'
 }
 
 // Thumbnail 
@@ -44,9 +44,9 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/not_es.x4r',
+ sgh:  'https://github.com/boting',
+ sgc: ''
 }
 
 // Info Wait
